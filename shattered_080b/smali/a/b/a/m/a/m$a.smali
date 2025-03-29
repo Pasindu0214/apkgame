@@ -1,0 +1,46 @@
+.class public La/b/a/m/a/m$a;
+.super La/b/a/r/l;
+.source "AndroidInput.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = La/b/a/m/a/m;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "La/b/a/r/l<",
+        "La/b/a/m/a/m$c;",
+        ">;"
+    }
+.end annotation
+
+
+# direct methods
+.method public constructor <init>(La/b/a/m/a/m;II)V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0, p2, p3}, La/b/a/r/l;-><init>(II)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a()Ljava/lang/Object;
+    .locals 1
+
+    .line 1
+    new-instance v0, La/b/a/m/a/m$c;
+
+    invoke-direct {v0}, La/b/a/m/a/m$c;-><init>()V
+
+    return-object v0
+.end method

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="ic_launcher" id="0x7f010000" />
+    <public type="mipmap" name="ic_launcher_background" id="0x7f010001" />
+    <public type="mipmap" name="ic_launcher_foreground" id="0x7f010002" />
+</resources>

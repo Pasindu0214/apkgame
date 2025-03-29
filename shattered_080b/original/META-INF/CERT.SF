@@ -1,0 +1,1289 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: XZ32QKMZUx6hUa2SARNTZFlmBHo=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: cri7KoMc1e132gv5UR6GYoM0mBE=
+
+Name: assets/amulet.png
+SHA1-Digest: m1yQvTJ3Pe8uzsTBjBCPy0y+imc=
+
+Name: assets/arcs1.png
+SHA1-Digest: 1TxP0pTxEpfuxc6SNCLvJqZFMAg=
+
+Name: assets/arcs2.png
+SHA1-Digest: EQwV7n8uNU0EbfqhIITjgU8Tee0=
+
+Name: assets/avatars.png
+SHA1-Digest: NlFeYnZOTNhKjfGpMXwH6OP/Jus=
+
+Name: assets/badges.png
+SHA1-Digest: NEYhcFr3oNTwjIuS6ekZ9LMpdYg=
+
+Name: assets/banners.png
+SHA1-Digest: faJwZov4YjoAq+WFLqiUowJL3qI=
+
+Name: assets/bat.png
+SHA1-Digest: qrjAsDCwQVkiuk+QybznbOVb8RE=
+
+Name: assets/bee.png
+SHA1-Digest: ilvALY9Ot6LEXovF2TKFk88xbfY=
+
+Name: assets/blacksmith.png
+SHA1-Digest: e87iYXzuSUg+9ORUVRk/+0j/gc0=
+
+Name: assets/boss_hp.png
+SHA1-Digest: CzmXQ9h+/Spt/NW4BSrIvudQSew=
+
+Name: assets/brute.png
+SHA1-Digest: u86mwDuCC1K7UbW0LOldP2HG1Ow=
+
+Name: assets/buffs.png
+SHA1-Digest: OnEP3vigFwn96NhHrOah7w83F94=
+
+Name: assets/chrome.png
+SHA1-Digest: ZIT0l5h2P418Ixnvsnc81YWBTS0=
+
+Name: assets/consumable_icons.png
+SHA1-Digest: 8jJ+ppsuhv0O/fLdznBWSMaqMAU=
+
+Name: assets/crab.png
+SHA1-Digest: AtfYE3nb8qura4Izm2YUQ2p1dyQ=
+
+Name: assets/custom_tiles/caves_boss.png
+SHA1-Digest: G56tBO7J7B6IYE2mbCzsXWIa/GA=
+
+Name: assets/custom_tiles/city_boss.png
+SHA1-Digest: xhgTCZK4ld/61Nby+MFUK5MXOvA=
+
+Name: assets/custom_tiles/halls_special.png
+SHA1-Digest: Ejl9gcGMDw51gjSsCZysMbPHkI4=
+
+Name: assets/custom_tiles/prison_exit_new.png
+SHA1-Digest: DK5hYE28E4IzWRpKbjkkkAhHNG0=
+
+Name: assets/custom_tiles/prison_exit_old.png
+SHA1-Digest: QFt8/NighDqTnwZ7X/xfj5LJeoI=
+
+Name: assets/custom_tiles/prison_quests.png
+SHA1-Digest: 74P55iUTdy4b4bgK6QsXqYBzXQ0=
+
+Name: assets/custom_tiles/sewer_boss.png
+SHA1-Digest: wE5+dsk4HwufRtJkqZvjlEEI9SQ=
+
+Name: assets/custom_tiles/weak_floor.png
+SHA1-Digest: PKoLfWKZoDRlhQ+W/hrFJhAy0qE=
+
+Name: assets/demon.png
+SHA1-Digest: F7AQfUdEyWm0FuXvQ5bejrQzxYE=
+
+Name: assets/dm100.png
+SHA1-Digest: GjBkkPvfMDcnt8I185mEVz0/vtI=
+
+Name: assets/dm200.png
+SHA1-Digest: UKfwE/Th2pAhar9+gvr1fymArt8=
+
+Name: assets/dm300.png
+SHA1-Digest: 8InEwXo2Hdy/HxwGlOfM4BnRSHM=
+
+Name: assets/effects.png
+SHA1-Digest: YittTndmt4PiR7SzVsLZChPSCi0=
+
+Name: assets/elemental.png
+SHA1-Digest: UZL5Xt4jH70JsVdNUXexjtQGOQo=
+
+Name: assets/exp_bar.png
+SHA1-Digest: wU3cYzLfwtqPVb7tPxu57XKAWR0=
+
+Name: assets/eye.png
+SHA1-Digest: RtADNOSy5+c3q8CKf2wbyKx+Jf0=
+
+Name: assets/fireball.png
+SHA1-Digest: dlxJ0tLWXOxA25ofdBhBv2MQ7Oo=
+
+Name: assets/game.ogg
+SHA1-Digest: 7mDhpC0NwdjbF4KHy3kNJwf3gU4=
+
+Name: assets/ghost.png
+SHA1-Digest: jFjyWYENMF9V/pVgOIKpQHH4xhE=
+
+Name: assets/ghoul.png
+SHA1-Digest: Yu68D72xmrBHSUyKhfcYV3nAHTw=
+
+Name: assets/gnoll.png
+SHA1-Digest: sns6ENV30Ffg1Np+eBEsv2Y+IYI=
+
+Name: assets/golem.png
+SHA1-Digest: gZ4l55jJnu0hCn2MEHRmmVzFXJ0=
+
+Name: assets/goo.png
+SHA1-Digest: 0Qn6L4Fg3Kw8T0iIqbQGwMfYfY0=
+
+Name: assets/guard.png
+SHA1-Digest: GCxclYTjf1EL7bm8vC/Q8bG6QIw=
+
+Name: assets/guardian.png
+SHA1-Digest: uHDuiPub8shHUetz0iDjpRP2VWA=
+
+Name: assets/hp_bar.png
+SHA1-Digest: SvOuaWuqRbrTFpJoM5WoqK8Nmaw=
+
+Name: assets/huntress.png
+SHA1-Digest: nomGxyfEMl91H8WOGFzFPtyKjSg=
+
+Name: assets/icons.png
+SHA1-Digest: 70HLeEcvroajEwhcigxqqFboW80=
+
+Name: assets/items.png
+SHA1-Digest: pwK+XDoNfOEFgEvip7hjNkhyVuI=
+
+Name: assets/king.png
+SHA1-Digest: mL0paRk1VXJBrclLJCCDm7EonN8=
+
+Name: assets/large_buffs.png
+SHA1-Digest: wEyjvAeHZgA0ckTim6iI3hVvbwY=
+
+Name: assets/larva.png
+SHA1-Digest: WW1e4Vn6o5r1OH9GRGgfJf56x3s=
+
+Name: assets/loading_caves.png
+SHA1-Digest: 9n++oCn+JwEQrMc9Fq4vJGOEWg8=
+
+Name: assets/loading_city.png
+SHA1-Digest: tVHzlRrXnEHnmUNhciosMWJlrnI=
+
+Name: assets/loading_halls.png
+SHA1-Digest: gQd53Ub7YfqDMVr0NsCSiB7Z6xw=
+
+Name: assets/loading_prison.png
+SHA1-Digest: sGunVj1qNloLPQONaq5+MdZIN/o=
+
+Name: assets/loading_sewers.png
+SHA1-Digest: EYULkEhL+OqrARvHs9M8F9MQoDI=
+
+Name: assets/locked_badge.png
+SHA1-Digest: wn7XSwhIWva7Y6Uwx32mlb1Cxoc=
+
+Name: assets/mage.png
+SHA1-Digest: fv66Qxv8jn1AtSfOjJTaI7cVWpE=
+
+Name: assets/menu_button.png
+SHA1-Digest: 0EHPyklgdXpI/b4NOWJggkJhzqw=
+
+Name: assets/mimic.png
+SHA1-Digest: GtLk6okLKelDDI1Qd2iEN4Jy+yI=
+
+Name: assets/monk.png
+SHA1-Digest: uIz2C2QbfrslWHwYAlcx81YUGsU=
+
+Name: assets/necromancer.png
+SHA1-Digest: pZpO/KhKDsAuRHyS0YunRLXugQg=
+
+Name: assets/pet.png
+SHA1-Digest: IlPIUBNBjvYnxRUwAlJyxAAVxxo=
+
+Name: assets/piranha.png
+SHA1-Digest: LoliILHB/2+ajhRcQD4s5+9xiIA=
+
+Name: assets/pixel_font.png
+SHA1-Digest: 1CfWlqd+0IIfZt0kiGjf/mCWeGY=
+
+Name: assets/pixel_font.ttf
+SHA1-Digest: XQ0PXXyKtXU/b+UtydsT1aNT0C4=
+
+Name: assets/pylon.png
+SHA1-Digest: Ivbu12GOs9bIQuS97C2+wBzMKUI=
+
+Name: assets/rat.png
+SHA1-Digest: 3dBOTM2WYAqvczDVjM0QvKVUS0c=
+
+Name: assets/ratking.png
+SHA1-Digest: DfAzrc2bawSYE0yGF3k99FfMn20=
+
+Name: assets/ripper.png
+SHA1-Digest: lgxnDuIenK9Mnx1pGJxZgf1gn/A=
+
+Name: assets/rogue.png
+SHA1-Digest: prbSCXk617AYqgLzl2yodaALboI=
+
+Name: assets/rot_heart.png
+SHA1-Digest: PCGx/sXrLwUsgqeO+gDy/BMFF9o=
+
+Name: assets/rot_lasher.png
+SHA1-Digest: 1BhSjyg/F44lGY57MLnCc01akLI=
+
+Name: assets/scorpio.png
+SHA1-Digest: UIs36j6xVFFLMIl3i+Oijqj7P04=
+
+Name: assets/shadow.png
+SHA1-Digest: gv2Qz5mdSGz6Sp3h2wjNSf5/Uac=
+
+Name: assets/shaman.png
+SHA1-Digest: 0Pty2ssn+LGfdMrVJGtv/DcRK/E=
+
+Name: assets/sheep.png
+SHA1-Digest: y3Gfh09YbYirQFs+CTU3JwBhkYg=
+
+Name: assets/shield_bar.png
+SHA1-Digest: gBuyzYWmpbL3+weeWrAuj+TY8iM=
+
+Name: assets/shopkeeper.png
+SHA1-Digest: kURWOdIeBXqhXCW5aWLLf85cxAo=
+
+Name: assets/skeleton.png
+SHA1-Digest: koeiLmlAqw3uYqZS9aM0gZvk9jw=
+
+Name: assets/slime.png
+SHA1-Digest: ZfzUyJFrWbGHQrpVNhHCXjv6GzA=
+
+Name: assets/snake.png
+SHA1-Digest: HFvN8ahs1MP6cw09j8DmiI3eDk0=
+
+Name: assets/snd_alert.mp3
+SHA1-Digest: aLrNx8iJ2nRZZJ8oava1tldtzY0=
+
+Name: assets/snd_badge.mp3
+SHA1-Digest: LEwkeCpV7z0IVZggqqsJ/8dVNrE=
+
+Name: assets/snd_beacon.mp3
+SHA1-Digest: QmnozQp34vzZPEIgEd6Wi3vNREs=
+
+Name: assets/snd_bee.mp3
+SHA1-Digest: utTiDiztRFVNtzpMO2IBhmMBkR0=
+
+Name: assets/snd_blast.mp3
+SHA1-Digest: E8J6TAIGiQVdy12FQbkucku2hQk=
+
+Name: assets/snd_bones.mp3
+SHA1-Digest: TFZAzeIzQgMuQ+QKkf1fMsmykYY=
+
+Name: assets/snd_boss.mp3
+SHA1-Digest: Qn9YRQC3fPqZ8rUAD9WYLm3XEP0=
+
+Name: assets/snd_burning.mp3
+SHA1-Digest: kaSfv8+biNKsuy2U7wkejd/0RQg=
+
+Name: assets/snd_challenge.mp3
+SHA1-Digest: sxolSZ4ZcMzHqD95HspChdnTt7s=
+
+Name: assets/snd_charms.mp3
+SHA1-Digest: kvKlv+ShiyePD2rXZqbmJO6wRmo=
+
+Name: assets/snd_click.mp3
+SHA1-Digest: PXHyxv280Gvzq7hTO9QH+U83dp8=
+
+Name: assets/snd_cursed.mp3
+SHA1-Digest: ibB731uLksb/jxLcPp/Xd2uE+cA=
+
+Name: assets/snd_death.mp3
+SHA1-Digest: p9+I0q8DT35i2Z/LGCPU72V7MyY=
+
+Name: assets/snd_degrade.mp3
+SHA1-Digest: AmEBMODnoqBdAHwxA/TKNBXnD8E=
+
+Name: assets/snd_descend.mp3
+SHA1-Digest: I7g3uZl+TDk4YWH9zmOlhgq1kPg=
+
+Name: assets/snd_dewdrop.mp3
+SHA1-Digest: ETARVsidWehEU0oG4/aZY8egQCs=
+
+Name: assets/snd_door_open.mp3
+SHA1-Digest: n4xzIseUETULdA8CtNBKGkAQ0x8=
+
+Name: assets/snd_drink.mp3
+SHA1-Digest: M+ipxcvXy8wvr+6trO6s0UP5oYE=
+
+Name: assets/snd_eat.mp3
+SHA1-Digest: 8klmi5Qgpk2HiVmmvUl8phX5Hwg=
+
+Name: assets/snd_evoke.mp3
+SHA1-Digest: mgVa/5dUu/6AO/y8ObnFQ0EqipE=
+
+Name: assets/snd_falling.mp3
+SHA1-Digest: YhM9/VnqDQTKtb8MYjwHwaI2gmg=
+
+Name: assets/snd_ghost.mp3
+SHA1-Digest: BzRsnC04nd72yBQlwrsYydSBpHw=
+
+Name: assets/snd_gold.mp3
+SHA1-Digest: DCdnuoBBhwVtmW/T5UyUBMZ0x/U=
+
+Name: assets/snd_hit.mp3
+SHA1-Digest: ALwjMOLnXoJraIJjl67wIXPb7Tg=
+
+Name: assets/snd_item.mp3
+SHA1-Digest: GI7p2tEv2bErQrOXfKNmP+MSLG8=
+
+Name: assets/snd_levelup.mp3
+SHA1-Digest: dRSBtPjIRayResPD63ExU1VsObY=
+
+Name: assets/snd_lightning.mp3
+SHA1-Digest: 8O996N+zI+dWqJKLjxcyzvlh3uk=
+
+Name: assets/snd_lullaby.mp3
+SHA1-Digest: BE7B6VB+y7WkJuq/JXpVo40zwhA=
+
+Name: assets/snd_mastery.mp3
+SHA1-Digest: tDekPjNu4RdOCQQkD87jZr/4bzE=
+
+Name: assets/snd_meld.mp3
+SHA1-Digest: 8qJXf6C4K5JxxHch4UwLwHz7SNw=
+
+Name: assets/snd_mimic.mp3
+SHA1-Digest: FBuK/TmVxZQZbUFnyKfKqFPgIoE=
+
+Name: assets/snd_miss.mp3
+SHA1-Digest: KU+4nKD2ySM+kZdJzB6xNhR6/kY=
+
+Name: assets/snd_plant.mp3
+SHA1-Digest: fH097pi2ZwaGNMO9nZuWk5wY2JM=
+
+Name: assets/snd_puff.mp3
+SHA1-Digest: 0izyo5PDyq7H2i3F9lC1uqKrfrI=
+
+Name: assets/snd_ray.mp3
+SHA1-Digest: s6Af3LKNzRKcSnByrLqqHMAFPys=
+
+Name: assets/snd_read.mp3
+SHA1-Digest: 2WDsz8OJtG9FOMrfzscnA0y9fKQ=
+
+Name: assets/snd_rocks.mp3
+SHA1-Digest: ggcKlUJBly+HRosZ97EcQ8w3FgA=
+
+Name: assets/snd_secret.mp3
+SHA1-Digest: 8XW6M/vUt32DzCSWuU5kWiYbQr0=
+
+Name: assets/snd_shatter.mp3
+SHA1-Digest: pVu7+04jnGFbESwF6o2SnumGCwc=
+
+Name: assets/snd_step.mp3
+SHA1-Digest: qS3E8C+DQSOZ68EhlFj6w/DAyeI=
+
+Name: assets/snd_teleport.mp3
+SHA1-Digest: wSMEjfhnCEGIcASEtiq/ilGt4xc=
+
+Name: assets/snd_tomb.mp3
+SHA1-Digest: pP12DUxvoQvBX7nh31yHIiMay8Q=
+
+Name: assets/snd_trap.mp3
+SHA1-Digest: TFCOTTYxxpjueTGBiXVvWMMdMQo=
+
+Name: assets/snd_unlock.mp3
+SHA1-Digest: FUU79gNn/B72ozm66jZkaS4lzUM=
+
+Name: assets/snd_water.mp3
+SHA1-Digest: vtWKiCd6BxtpLbV7cissGYS9c+4=
+
+Name: assets/snd_zap.mp3
+SHA1-Digest: /2aijLGrT63YR6Ca2lm2E2YTRb0=
+
+Name: assets/spawner.png
+SHA1-Digest: gWFJcC0GG1ccrdSlOt51JwSaYrU=
+
+Name: assets/specks.png
+SHA1-Digest: +2W43zsEPRkgwpzSavhaOlSrFcs=
+
+Name: assets/spell_icons.png
+SHA1-Digest: olJWmFfEXotRSiU6hVT0gN0pKmQ=
+
+Name: assets/spinner.png
+SHA1-Digest: fJffkmA7aX7QLb0kEFdeVcswYEg=
+
+Name: assets/statue.png
+SHA1-Digest: RtvqGCMWTlBhRy5lMaawtpLRbCc=
+
+Name: assets/status_pane.png
+SHA1-Digest: qzMtageKBp9TaHHsXZWC7qZVpfI=
+
+Name: assets/succubus.png
+SHA1-Digest: zR4z2x0AL7/CFzrLar7hnVJW94s=
+
+Name: assets/surface.ogg
+SHA1-Digest: +un1trSKtnikiJ0X47ARRH44hts=
+
+Name: assets/surface.png
+SHA1-Digest: q92+d3xUTcdyt0+sVuOWm04R29k=
+
+Name: assets/swarm.png
+SHA1-Digest: JPO8DeRlswgnsixcRw8qqBUXfgE=
+
+Name: assets/tengu.png
+SHA1-Digest: z9v50cFlxFVA/KEJW/O6YgM3LiI=
+
+Name: assets/terrain_features.png
+SHA1-Digest: Qirsp8JMbbts6CfQDiMtLXSY7tE=
+
+Name: assets/theme.ogg
+SHA1-Digest: nRceEhkFSrhhArOPg9SATvEj9AE=
+
+Name: assets/thief.png
+SHA1-Digest: XFBdUnP0C0JEigPklAGoChW1Hnw=
+
+Name: assets/tiles_caves.png
+SHA1-Digest: nifVdsu/ZAdY61LV8b8Uopky5d4=
+
+Name: assets/tiles_city.png
+SHA1-Digest: C6Z8/xuBmwuJmdBJ6Kg/2PRyoDI=
+
+Name: assets/tiles_halls.png
+SHA1-Digest: /n4lTE0rDIuL5G5/Fi0s/ivYvc0=
+
+Name: assets/tiles_prison.png
+SHA1-Digest: Pcrk0o02rAmbJIa0okqMM7lhRak=
+
+Name: assets/tiles_sewers.png
+SHA1-Digest: iUOet3anwDy8GJk38HrEcRdZX7g=
+
+Name: assets/toolbar.png
+SHA1-Digest: 3uNzx1r9jzIRHhNgMpJRrA8Ju20=
+
+Name: assets/undead.png
+SHA1-Digest: yQrJdBSpNzoySQ+2pBIKOxGgGyw=
+
+Name: assets/visual_grid.png
+SHA1-Digest: wNHrN3uCHvhqG3WCJw9KcRxxwNc=
+
+Name: assets/wall_blocking.png
+SHA1-Digest: AJ7nGeg9VjGcGhDe4yPNz3nytas=
+
+Name: assets/wandmaker.png
+SHA1-Digest: rm/GDdvumsvRPkv1Xf9UKcfI3qs=
+
+Name: assets/wards.png
+SHA1-Digest: hVCMv1hhu0l61BtWpNIUlen8bD4=
+
+Name: assets/warlock.png
+SHA1-Digest: hBWqFw6X2sv9OveGREE30tu1rmU=
+
+Name: assets/warrior.png
+SHA1-Digest: suXHYccxX+TLCM2KeDzBCI9dbdo=
+
+Name: assets/water0.png
+SHA1-Digest: 0FlJ13nD3paDGFwnXjrjoy7dJuc=
+
+Name: assets/water1.png
+SHA1-Digest: x3QuLxdWigRiWhQHfsgkXck3SZQ=
+
+Name: assets/water2.png
+SHA1-Digest: TaEV3FCIRGBgd9tt6JQFjEqqi2g=
+
+Name: assets/water3.png
+SHA1-Digest: 0C6YLr9HmLgEecXYQzgMleslLRY=
+
+Name: assets/water4.png
+SHA1-Digest: 6A+9nZfHYbXO9xfymgHE0WZiLsM=
+
+Name: assets/wraith.png
+SHA1-Digest: GEscBA0P8TXUFYoW5t9wnY6fzwQ=
+
+Name: assets/yog.png
+SHA1-Digest: cRDAYTvGEoYtdbVVIZbL+0y0U4I=
+
+Name: assets/yog_fists.png
+SHA1-Digest: 79xsV/M3oS3qQIaoa0iyrDKYM+0=
+
+Name: classes.dex
+SHA1-Digest: BiW5c/WOYPXZnnsJpkV/2LXskzs=
+
+Name: com/badlogic/gdx.gwt.xml
+SHA1-Digest: Lw36WpG7D/hiv+BS24JP6wkgdhM=
+
+Name: com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl
+SHA1-Digest: eeeSc+tc5QCSKuV0hFWg9phhius=
+
+Name: com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl
+SHA1-Digest: +uJlsJtNlSTIfFmXNXibKWc66+8=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl
+SHA1-Digest: dcddSZzFVarNFys+c7LX3A21iFg=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl
+SHA1-Digest: P61P0nbNk86XcrJLIe7w63zkhlc=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl
+SHA1-Digest: 7R6DroOh8Rsg1NQSAhrBTPsyWes=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl
+SHA1-Digest: r5/qYIiCWmdkmfHc0adWAVKwjQI=
+
+Name: com/badlogic/gdx/utils/JsonReader.rl
+SHA1-Digest: kCbyWXVkRfxmmykdFDTDemOt/5E=
+
+Name: com/badlogic/gdx/utils/XmlReader.rl
+SHA1-Digest: X9iq9o1f5Iv1cOxZP8SIOM6JLgM=
+
+Name: com/badlogic/gdx/utils/arial-15.fnt
+SHA1-Digest: h1kLe7EvHfziUMbjLZoi18Hi4UI=
+
+Name: com/badlogic/gdx/utils/arial-15.png
+SHA1-Digest: zcxc3DgP9Ynv4SOhoUV2qAKs6oo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors.
+ properties
+SHA1-Digest: M9aghcNvBgfQE1ni/aEAeZsilpY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ ca.properties
+SHA1-Digest: LV4gjxi18dUkyydNFgpxiEoyv1c=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ cs.properties
+SHA1-Digest: LTeMqC/Hb+5aDxmKw8WTuJ6GNBU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ de.properties
+SHA1-Digest: o3cLImqcuBBe0bvKhkaBBV9Z7F8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ eo.properties
+SHA1-Digest: /kzDe/ihwi5y+ly4vTNFQV5Bb7w=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ es.properties
+SHA1-Digest: 00GGnknvYYdQASLutrMjVRJXCVA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ eu.properties
+SHA1-Digest: mmHtxIE54aG4I12L+wl5jRLnEBM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ fi.properties
+SHA1-Digest: x1l19XOdPRKGcnkb9+Y4DTvK4Dg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ fr.properties
+SHA1-Digest: aMDD5B/FLIDwXx3dxsmTGX4cmvE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ hu.properties
+SHA1-Digest: d5Z1L2jEE+HFV6vxynObhDjGDgI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ in.properties
+SHA1-Digest: 35gKtl0/iKbjn/b3WbXthUeHxtI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ it.properties
+SHA1-Digest: oQauw2bnTSGIXZjzV+Y8jm06TQE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ ja.properties
+SHA1-Digest: ZYzwi37RlVMbqAPpk+NHiuWslRs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ ko.properties
+SHA1-Digest: SRgAfItOzqcTdLpF8346qziYmmg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ pl.properties
+SHA1-Digest: f6qYcSE3DPa4ijKUbE6Yl6R4A1g=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ pt.properties
+SHA1-Digest: ziQZ2bDNmqdauNsd1t2X0YpiaaA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ ru.properties
+SHA1-Digest: iM8hkhPpYsUeqWpfOOlHXfOpMqo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ tr.properties
+SHA1-Digest: MYNLg1ny2DRZP1uC/Zj51ybOYoU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/actors/actors_
+ zh.properties
+SHA1-Digest: Giqzh+o22FEp5tIVx0vWEANsrzY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items.pr
+ operties
+SHA1-Digest: CIupKRnlP+2TCZSX0SPdd/OYfnA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_ca
+ .properties
+SHA1-Digest: URXsq22QZ9MXrwAzTJdRMe17VXo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_cs
+ .properties
+SHA1-Digest: U+nqeq0PPXXAblZNgeEknnHhuxA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_de
+ .properties
+SHA1-Digest: 9+22IG+1Olod8xNEj43L9qxJz5w=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_eo
+ .properties
+SHA1-Digest: W8Eg2RUImaxo+3uGWo8f1mzY3OM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_es
+ .properties
+SHA1-Digest: HIEM1ZEmbo8dssyzFQMPG9ZFRFU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_eu
+ .properties
+SHA1-Digest: XMyS1QlJCPgO9W7HaIozBwtcXBU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_fi
+ .properties
+SHA1-Digest: hNxr2Stws7ld+/6zW/WckrKBqjI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_fr
+ .properties
+SHA1-Digest: 8U76FFg97YJIOOdCwYjNw7LgGoE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_hu
+ .properties
+SHA1-Digest: DI0N85ufdlI47/g1khpqLL91GOY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_in
+ .properties
+SHA1-Digest: UV4/C7TZbuaccAocC7afiKy534A=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_it
+ .properties
+SHA1-Digest: DEJQYw+50e8Daot0xkB2VM+gxPs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_ja
+ .properties
+SHA1-Digest: yEwzerRJ47mAnjyIlF7z2qTRgLs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_ko
+ .properties
+SHA1-Digest: Zgi05Xy/y4syTCoR90Whb+ps6y4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_pl
+ .properties
+SHA1-Digest: FnB5i3qncGujPjR4K0Hkaacz5XQ=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_pt
+ .properties
+SHA1-Digest: z5nmxJuorNX82Xt/wXerVtCveMo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_ru
+ .properties
+SHA1-Digest: bJddzvSL7WgYTk31Nh7dGemGam0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_tr
+ .properties
+SHA1-Digest: lsiTTP2WwRY4aSP/IwH5PLplX34=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/items/items_zh
+ .properties
+SHA1-Digest: nUbQ+eBIQ3N0hZn6b8ItsCmNsfs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l.properties
+SHA1-Digest: 16618L+6f0/qrnSqe8SXK00q3wk=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_ca.properties
+SHA1-Digest: BNNuLk4UNzYM/0r6+NVFGH+fjUs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_cs.properties
+SHA1-Digest: oEK41QZEKzijfVEXTo8qH7Gzrlo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_de.properties
+SHA1-Digest: S3J8zqfQ/QK1V4o+eOFYl5ZTRyc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_eo.properties
+SHA1-Digest: APoZXC9asHhA1hdkE2WuzpG1HnA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_es.properties
+SHA1-Digest: HVe6bkUXg3daKBu+VrF47V2RBRk=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_eu.properties
+SHA1-Digest: wWSMzu4o4C+bn/EBhd5LjYP8wtI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_fi.properties
+SHA1-Digest: kJYmlY9u2FDa8GTL3blBhjYro/U=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_fr.properties
+SHA1-Digest: H1gG3q+ygSU/DvN7j56tM6O8xOo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_hu.properties
+SHA1-Digest: vAt+PEIq+BAfhUHWY3WpmNd3BTw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_in.properties
+SHA1-Digest: kBGFg/00IqfZia6iKoQ8zA/rbRo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_it.properties
+SHA1-Digest: cJgg1ihCEvp6t5HfVulKxaFYaTI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_ja.properties
+SHA1-Digest: /qbP+1H4CQ8bWxdT8m43VYLom9A=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_ko.properties
+SHA1-Digest: Gq/8x9P8QclkO+5Q4+oST5+qW0E=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_pl.properties
+SHA1-Digest: rHu2P7kR+kiD0R4/Jh/mbGXiXq8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_pt.properties
+SHA1-Digest: ovmqyTOEEGSmj1FFcQj6ik58pgA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_ru.properties
+SHA1-Digest: IPmFfplOO4jht7cSurFW7JzINLE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_tr.properties
+SHA1-Digest: aCK2dvXG3d4go6WoTNDa58bTwVA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/journal/journa
+ l_zh.properties
+SHA1-Digest: 851stp1LfbPZwvsmRZtF/sBW290=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels.
+ properties
+SHA1-Digest: T1UO7FHjZxB4HOmAlSw3DMlEtzU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ ca.properties
+SHA1-Digest: lkhmqYjPpEeXYYCyhd6ovRB3xRM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ cs.properties
+SHA1-Digest: XVXuU1yCQ7N55prJfzwIOHPowiY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ de.properties
+SHA1-Digest: xeGcgR73KVKwVk64YPGpKht0KUg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ eo.properties
+SHA1-Digest: 05jvD3CvRIN/s373DnTMy7Mnurk=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ es.properties
+SHA1-Digest: EzxYdTlBqXorKWVtoGa/TO+eEew=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ eu.properties
+SHA1-Digest: SlbKqdf7LNiYcaAxvIP5ypl83bM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ fi.properties
+SHA1-Digest: 1KuCHn8zkIBKxzO2NF8vxaBs8Fg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ fr.properties
+SHA1-Digest: eJ2ilpZDSKIMkQJ8/+pB5giFJBI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ hu.properties
+SHA1-Digest: 8QZhr+hZN0Bx2Mjsbw4F8WBAAGk=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ in.properties
+SHA1-Digest: 9HV2rdIvEs6B4D20Yq/d7iAIurg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ it.properties
+SHA1-Digest: +RgVz0rggVyMos+XRRdbl6IImdQ=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ ja.properties
+SHA1-Digest: cd4KJ43q0ErIyqfz8gW1wPwqpCw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ ko.properties
+SHA1-Digest: dFJqwyuNyi5CkwhM3BNvLbXbyxs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ pl.properties
+SHA1-Digest: d31eJajT5KJYenBlsw/LZALf3k8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ pt.properties
+SHA1-Digest: bafg7ONpsAUplSGa5eqwpGkz0v4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ ru.properties
+SHA1-Digest: M0peCBiIo4mJZJ8YlxAZOSj9Gwc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ tr.properties
+SHA1-Digest: 1/BUdIkEji8FnLAcxO4cbuI8cyM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/levels/levels_
+ zh.properties
+SHA1-Digest: nGKykbS3nUsAzSAS9Ws2gW80JkU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc.prop
+ erties
+SHA1-Digest: nmzgyWU/ogGau8ZjxhOljNVtdQM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_ca.p
+ roperties
+SHA1-Digest: fWE1VLrOdTlCjHKpLEqr1jfT08Q=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_cs.p
+ roperties
+SHA1-Digest: gcnQel85H3aKIO/cViuQaoQCaJs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_de.p
+ roperties
+SHA1-Digest: IVWisravKmKUXffEDzBvy0x3j7U=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_eo.p
+ roperties
+SHA1-Digest: feMA+a5RNlng3a4NIusesBkMbFI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_es.p
+ roperties
+SHA1-Digest: TV9KSY2XJ7cev1mmV/cSV5JLnH4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_eu.p
+ roperties
+SHA1-Digest: 0fKAWM421aTDVWdcWxPddDJvM98=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_fi.p
+ roperties
+SHA1-Digest: Pl0umioD+JtLWq1UuK4mfcUPwb4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_fr.p
+ roperties
+SHA1-Digest: /AherTlA6k7SO/efTMnfRXNNem8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_hu.p
+ roperties
+SHA1-Digest: NbMGcDcr7A1yJQmpaxnu94ZVMsU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_in.p
+ roperties
+SHA1-Digest: BhKgLdIRyV6hbedwW1BDIsA6cbk=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_it.p
+ roperties
+SHA1-Digest: ulGDdNWFz8I92tAyD1DkXR5Khxs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_ja.p
+ roperties
+SHA1-Digest: DCQZkDP9fYZjR236NL3jxYk2EPM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_ko.p
+ roperties
+SHA1-Digest: LVIq/7XfjjFhIkC8ooELgkVm5Sw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_pl.p
+ roperties
+SHA1-Digest: 7qVTJDninDlzaBSpKEGxvtYJql0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_pt.p
+ roperties
+SHA1-Digest: 9L0/TE8lT9TC/qo1Ck5J9V77+YI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_ru.p
+ roperties
+SHA1-Digest: 8I1/f8SpmYSC4l8vuRhzFrdcAhA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_tr.p
+ roperties
+SHA1-Digest: KVG2vvWFnTKYVyU7xNlOzd7jdyg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/misc/misc_zh.p
+ roperties
+SHA1-Digest: OY1AsaB3MpRWLheUj4TSMtQhJAc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants.
+ properties
+SHA1-Digest: I5dRApqT3CTHdorlB2doZ56uuiA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ ca.properties
+SHA1-Digest: nUpU/ZYocmC5y2iUWRyLPtS925A=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ cs.properties
+SHA1-Digest: bPmsGbUjZYl197wjWieGzmopYa8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ de.properties
+SHA1-Digest: KRrj4kMjKGRn82lXyncmk0v37l4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ eo.properties
+SHA1-Digest: Ihi0Lpyf11FE1N5VtYifSqMbaws=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ es.properties
+SHA1-Digest: wajzKI6Yg+oRUOPptvozSRSUZGY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ eu.properties
+SHA1-Digest: XHCslkJPX10hphKTkvowLZdqXx4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ fi.properties
+SHA1-Digest: ucURDF9MJvi8Uyo0Alr87ti/KgY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ fr.properties
+SHA1-Digest: e1L/cxvCyDf21u584ipNcwZFZpc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ hu.properties
+SHA1-Digest: 0gVMCLdW7w8lXLbmkjAShkev8RY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ in.properties
+SHA1-Digest: CUEFK9blOeUPRb694vY0lMCFkKg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ it.properties
+SHA1-Digest: d5aXMkDIDcvnoU9RUFjXa11Y2gc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ ja.properties
+SHA1-Digest: oJyxVEmBAODFT/0tJAmmzNVLEH0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ ko.properties
+SHA1-Digest: FUTpoMfa1rBqjGXp32RXECoVuyA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ pl.properties
+SHA1-Digest: LCAVxp8PjQ8b73oU5q7RrV9tw/E=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ pt.properties
+SHA1-Digest: zGeW4j6abDvuppHtPhX8kvEeQB8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ ru.properties
+SHA1-Digest: U+qJ1qOUL38znaXJLvImdBCRdyU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ tr.properties
+SHA1-Digest: gB+Est5HJWoHrU0U01IadtZeG8c=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/plants/plants_
+ zh.properties
+SHA1-Digest: cWPtHlNEGp7I82mdB8SKnt7z3kg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes.
+ properties
+SHA1-Digest: o3a1B5R30/tNSYz/4adFiP3fWGk=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ ca.properties
+SHA1-Digest: eczg4jKbmwURbhWDL9iTfcMqqXs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ cs.properties
+SHA1-Digest: R/WHO6EmuUp/tgBInzISigxGQe4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ de.properties
+SHA1-Digest: mhGAnj8XUHmW42Mt+Cj+st93g3E=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ eo.properties
+SHA1-Digest: fwcgdBi+MagQa36bwrXsZWn1pz4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ es.properties
+SHA1-Digest: P5U0wy02FjVW+0yKRcfqldSYEX0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ eu.properties
+SHA1-Digest: BWsGUUMdCFCHSFcLm+SQT9SeFs8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ fi.properties
+SHA1-Digest: JTQwNSFUoByNaGKZpm4ykuzUHGc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ fr.properties
+SHA1-Digest: 530VL1HbIDGgyJcSKgaUN4K7U/s=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ hu.properties
+SHA1-Digest: 5evXUaOe1e1+Cd8JqlNp/VIubNw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ in.properties
+SHA1-Digest: yzyS8S9GB+XZ9hUlLlq78PHjXwE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ it.properties
+SHA1-Digest: 4hksEeH1XxQAKjFUExmvZUTf+g8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ ja.properties
+SHA1-Digest: 6VpgDLwbLbu8/7jeN3Eejmtn+Lo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ ko.properties
+SHA1-Digest: pnDkmE1pIsUREjHEYeO/An6Jd/E=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ pl.properties
+SHA1-Digest: cnd/k1HL4iut++enB6AR7UjqujE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ pt.properties
+SHA1-Digest: X66H9PRZty8PsUbH62w1UUFIIY0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ ru.properties
+SHA1-Digest: oYWDBN6FwtjDV7ry4jGSMXxo/pY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ tr.properties
+SHA1-Digest: Tx7v2m9bTKA0xNGFrfRPJOXzWGg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/scenes/scenes_
+ zh.properties
+SHA1-Digest: 30zJdZC8uTsqb53aVcA0jkcfrwg=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui.properti
+ es
+SHA1-Digest: JuCPtlxafe+r3urBLuBaLHH2pi8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_ca.prope
+ rties
+SHA1-Digest: tkVbB++gB+p25xhBGVDzDx4ksSM=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_cs.prope
+ rties
+SHA1-Digest: 1lKHn05pelNAw+qA4nfgK8aVF+o=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_de.prope
+ rties
+SHA1-Digest: XfAYLcDUB1RHBr9eyxqtVNDbYAU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_eo.prope
+ rties
+SHA1-Digest: RApjURWqa6ADhfggWwDZsvZKsvU=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_es.prope
+ rties
+SHA1-Digest: 0OHG56LnGCYJvUyvpe5J8TnNsZo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_eu.prope
+ rties
+SHA1-Digest: LgeT7eX7uqaz+3sIcb5fSVScMNs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_fi.prope
+ rties
+SHA1-Digest: eh0uoKHY2+Ez4h3bz4+QfjX4Q4I=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_fr.prope
+ rties
+SHA1-Digest: 7LcUNVZkqssziuDtja9OWotGNMs=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_hu.prope
+ rties
+SHA1-Digest: Mx+1LklBTy3hSCoB7CnqWZ7u5s0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_in.prope
+ rties
+SHA1-Digest: P/vyXQ7CfLoFA/ocYUnXkd1gSxw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_it.prope
+ rties
+SHA1-Digest: e08sMSb6OSp2RjmoIq5SbJ+EmnE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_ja.prope
+ rties
+SHA1-Digest: QzOUCQb1iZ38l3kSi3MyYv1uncI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_ko.prope
+ rties
+SHA1-Digest: Lyurlo6faKJtqQYeH4qJL0/fWok=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_pl.prope
+ rties
+SHA1-Digest: DlAMZAyfCAxZf9BI8WN9RYSVDIE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_pt.prope
+ rties
+SHA1-Digest: /85DVunFUWV+RhHOz2xwNUivbbA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_ru.prope
+ rties
+SHA1-Digest: AvWPhkPRBIqmPLUmCm4jtqsS4hI=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_tr.prope
+ rties
+SHA1-Digest: BmIKysRBhOLOLN9/zebqBTB7ogw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/ui/ui_zh.prope
+ rties
+SHA1-Digest: D/bEgYxBb+vkWMtS14UePHAkKbA=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s.properties
+SHA1-Digest: 1wWzr4tcxtKzXwW9HsVH7+wukyE=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_ca.properties
+SHA1-Digest: 4jgWPDxJHXgOBy3/limqzDrEPWY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_cs.properties
+SHA1-Digest: jyWH/BGYi4tyUSQpkN+XASAh7sc=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_de.properties
+SHA1-Digest: n7Z8X05dnzkRKlrcNGKe9UACoq0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_eo.properties
+SHA1-Digest: MxUq/ZfA6saUlGivRvWvak5E9So=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_es.properties
+SHA1-Digest: 1G8UnR5/z5X+1rp+i0Bo3PJwVrw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_eu.properties
+SHA1-Digest: vtfRhmv0SWgbg/7w1ZogNcJybbQ=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_fi.properties
+SHA1-Digest: sD2cSAW1pHoh703wKZ+LeaDHhYo=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_fr.properties
+SHA1-Digest: lke+HIa3dxYdrYbZ77+lXBaq/WY=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_hu.properties
+SHA1-Digest: AFgppxZLLwkG27ARMqEJcJ4Q20o=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_in.properties
+SHA1-Digest: SCKVVzTUQ3Zx2Th4e2YB8Kadx5Q=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_it.properties
+SHA1-Digest: F/U3uKJMQ+z8nV9pAM8bXURg0y4=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_ja.properties
+SHA1-Digest: 3hGgiANGWqMFzDulcE3BE0mXxss=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_ko.properties
+SHA1-Digest: 4DaT8pkmou6NkQ4EH4zlU5Na6II=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_pl.properties
+SHA1-Digest: 5SQ4M+HP7DRtsBmel85HAX/n4P0=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_pt.properties
+SHA1-Digest: TRWHc1EFnUJ1rfh/uL+9o3hBCsw=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_ru.properties
+SHA1-Digest: EtMz1txTjHzGL30kix/gvP/+n48=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_tr.properties
+SHA1-Digest: QozufmMttNq/KU7M6xBR9BdDHj8=
+
+Name: com/shatteredpixel/shatteredpixeldungeon/messages/windows/window
+ s_zh.properties
+SHA1-Digest: hmislhD7pIOvXSd1x2XYyjExOOk=
+
+Name: lib/arm64-v8a/libgdx-freetype.so
+SHA1-Digest: rlh3bIOLQ5PQSJpnr6ynAFn+vKk=
+
+Name: lib/arm64-v8a/libgdx.so
+SHA1-Digest: t1Sgtyg+uzgdaEFaKTG5Mi/NGq0=
+
+Name: lib/armeabi-v7a/libgdx-freetype.so
+SHA1-Digest: XkaCSZ8eFQ+21gb0nk3mRoDzzuI=
+
+Name: lib/armeabi-v7a/libgdx.so
+SHA1-Digest: Mw0LSlAZ1+rxReDzi+wYXC2WFWI=
+
+Name: lib/armeabi/libgdx-freetype.so
+SHA1-Digest: iuxRqLnWIeAI34TrGSYB3m+2t5A=
+
+Name: lib/armeabi/libgdx.so
+SHA1-Digest: EiWUilOVtNzvYBS9p28B3kWWu3M=
+
+Name: lib/x86/libgdx-freetype.so
+SHA1-Digest: nFIHGCP+LJT5BhJiRpZmzlnnnxI=
+
+Name: lib/x86/libgdx.so
+SHA1-Digest: oP5qCML8Xs5JncUuAlWAnT2vyy0=
+
+Name: lib/x86_64/libgdx-freetype.so
+SHA1-Digest: wh2frsC/7l9JIySvkA2t0P91wGA=
+
+Name: lib/x86_64/libgdx.so
+SHA1-Digest: BAu4haghdHUu1IIuPajTk0uJwEs=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: jNBved9DS0iB7wKHJhot/LA2ncw=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 3LJjn/mFxIZeBL0wwq6yOEuodRg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: 7tns0zbRCaxfRwR+EqJ+q8eolC8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: L+SgmzOPz8v7Dnitr+ytTW8CS7E=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA1-Digest: 1ZHtCrVHbkUPLMSqhGTX1YOfH1U=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: WzwfViiERtItzAeKpJNV2LP8FN4=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_background.png
+SHA1-Digest: 0BPek1zRJskdlrdZCEXGXb0yHAU=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: YkIegDhBBNI9IGmEd4EHaPVarh0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 3V3IcWp0qYZcK4pBa6tts6kwDB4=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: q5Q4U1tRghRUuNpfY1uV7sizhIs=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: BpfwebRW3nO07jw3ZSODDWTcOHs=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: tGtpEPaj8U5ToPD+NchrH0sf4k0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: 4/+10TQtmI70PbV0YuZ5AZAbDzk=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: 8xPEnS4hGJ56N3ZSw/BeoXwGhlE=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: aMUuZVlRdJvLrWTP3mQM7/saP3M=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: 1fr7MpoMW3eyN3Q8l+CVy+RuYyI=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: ss9HpuE33YkGisXq4Ic3emJ78i4=
+
+Name: resources.arsc
+SHA1-Digest: 4qJ3n2b4JDaJsTBtJFVWRcOq/40=
+
